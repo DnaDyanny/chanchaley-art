@@ -1,0 +1,6 @@
+{
+  "name": "Chanchale Art Gallery | Fine Art in Thamel, Kathmandu",
+  "description": "Fine art gallery in Thamel, Kathmandu, Nepal showcasing original hand-painted Himalayan landscapes, heritage temples, village life, and spiritual scrolls by Chanchale Majkoti.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
